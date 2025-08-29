@@ -1,5 +1,10 @@
 # Unity 2D Bullet Hell Game Project
+&nbsp;
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/601d5de2-75da-4a30-a55a-6411f349e9a3" width="300" height="300" alt="dodge_test">
+</div>
 
+&nbsp;
 ## Overview
 A simple 2D bullet hell game developed in Unity where players must survive against an increasing number of projectiles. The game features dynamic difficulty scaling, with the number of bullets gradually increasing over time to create an increasingly challenging experience.
 
@@ -26,3 +31,4 @@ Players control a character within a confined space while dodging bullets that s
 
 ## Future Development
 Future enhancements could include additional bullet patterns, scoring systems, power-ups, and visual effects to create a more engaging gaming experience.
+
